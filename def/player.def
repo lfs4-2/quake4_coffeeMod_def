@@ -722,7 +722,7 @@ entityDef player_marine
 
 	// stats
 	"health"						"100"
-	"maxhealth"						"100"
+	"maxhealth"						"120"
 	"armor"							"0"
 	"maxarmor"						"100"
 	"minRestoreHealth0"					"20"		// Minimum health when loading a game for skill level 0

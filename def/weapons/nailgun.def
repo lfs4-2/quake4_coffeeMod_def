@@ -108,7 +108,7 @@ entityDef weapon_nailgun
 
 	"fireRate"					".16"
 	"spread"					"3"
-	"spread_mp"					"0"
+	"spread_mp"					"5"
 	"spreadSeek"				"5"
 	"drumSpeed"					".8"
 	
