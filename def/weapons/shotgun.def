@@ -155,7 +155,7 @@ entityDef weapon_shotgun_mp
 	"hidesurface"				"models/weapons/shotgun/clip"
 	// q3 style spread
 	"shotgunSpreadStyle"			"1"
-	"spread"				"875"
+	"spread"				"500"
 	"hitscans"				"11"
 	"editor_ignore"				"1"
 	"range"					"131072"
