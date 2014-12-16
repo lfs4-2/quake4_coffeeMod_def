@@ -189,13 +189,11 @@ entityDef weapon_machinegun_mp
 	"clipsize"				"0"
   	"def_mod1"				""
   	"inv_icon"				"gfx/guis/hud/icons/item_machinegun_colored"
-  	"mtr_simple_icon"		"simpleicons/item_machinegun_colored"
-	"simple_icon_scale"			"32.0"
 	"triggerSize"				"32"
   	
   	// use q3 style spread in MP
   	"machinegunSpreadStyle"			"1"
-  	"spread"				"4"
+  	"spread"				"200"
   	"spreadZoom"				"150"
   	"editor_ignore"				"1"
   	
@@ -213,11 +211,6 @@ entityDef weapon_machinegun_mp
 	
 	"respawn_Team DM"			"30"
 	"respawn_Tourney"			"15"
-	
-	"inv_start_ammo_machinegun"		"100"
-	
-	// played when you touch a weapon you can't acquire, i.e. weaponStay in MP
-	"snd_noAcquire"			"pickup_weaponstay"	
 }
 
 entityDef weapon_blaster_gui

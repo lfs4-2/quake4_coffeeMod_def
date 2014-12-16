@@ -80,7 +80,7 @@ entityDef weapon_hyperblaster
 
 	"fireRate"					".08"
 	"spread"					"2"
-	"spread_mp"					"0"
+	"spread_mp"					"3"
 
 	"inv_weapon"				"weapon_hyperblaster"
 	"inv_item"					"1"

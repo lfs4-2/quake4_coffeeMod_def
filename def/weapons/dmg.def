@@ -94,7 +94,7 @@ entityDef weapon_dmg
 	"joint_core"				"inner_ring"
 
 	"fireRate"					"2"
-	"spread"					"0"
+	"spread"					"4"
 
 	"inv_weapon"				"weapon_dmg"
 	"inv_start_ammo_dmg"		"10"
