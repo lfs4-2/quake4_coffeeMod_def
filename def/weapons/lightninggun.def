@@ -65,7 +65,7 @@ entityDef weapon_lightninggun
 	"chainLightningRange"		"0 0"
 
 	"fireRate"					".05"
-	"spread"					"1"
+	"spread"					"3"
 	"range"						"1600"
 
 	"joint_attach"				"LG_ATTACHER"

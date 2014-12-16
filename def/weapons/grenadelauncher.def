@@ -75,7 +75,7 @@ entityDef weapon_grenadelauncher
 	"joint_world_flash"			"muzzle_flash"
 
 	"fireRate"					".8"
-	"spread"					"0"
+	"spread"					"4"
 	
 	// the direction of projectile launches will be modified by this
 	"dirOffset"					"0 0 .2"
